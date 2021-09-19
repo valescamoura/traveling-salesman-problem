@@ -1,6 +1,6 @@
 # Quarto Trabalho de Tópicos em Sistemas de Programação: Modelagem Computacional
 # Implementação de solução para o problema do caixeiro viajante
-# Discente: Valesca Moura de Sousa
+# Discente: Valesca Moura
 
 # Problema resolvido baseado no algoritmo guloso "Método do Vizinho Mais Próximo" 
 # e realização de swaps para melhora da solução
